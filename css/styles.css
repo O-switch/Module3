@@ -1,0 +1,47 @@
+body {
+    height: 100vh;
+    width: 100%;
+}
+
+.navbar {
+    background: #cd3278;
+    color: gold;
+    padding: 20px;
+}
+
+.navbar .navbar-brand  {
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: gold;
+    font-size: 2.5em;
+}
+h2.text-center{
+    color: #cd3278;
+}
+.text {
+    background: #cd3278;
+    color: #e2dada;
+    margin: 20px 0;
+}
+
+h3{
+    color: gold;
+}
+.nav li {
+    color: #fff;
+}
+.navbar .nav{
+    margin: auto;
+}
+.navbar .nav>li>a{
+    color: #fff;
+}
+.navbar .nav>li>a:hover {
+    color:gold;
+    background-color: transparent;
+}
+footer{
+    background: #cd3278;
+    color: #c1c1c1;
+}
